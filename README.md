@@ -1,6 +1,6 @@
 # Cross-site scripting
 
-- This website is use for demonstration in Assignment 3 - Cyber Security Threat Report and demo of Cyber Security in Computing and Information System (COSC2539) of Royal Melbourne Institution of Technology
+- This is used for demonstration in Assignment 3 - Cyber Security Threat Report and demo of Cyber Security in Computing and Information System (COSC2539) of Royal Melbourne Institution of Technology
 - Author: Dao Kha Tuan (s3877347)
 - Contact: s3877347@rmit.edu.vn
 
